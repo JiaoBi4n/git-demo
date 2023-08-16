@@ -2,3 +2,4 @@ hello world
 nihao
 bonjour (hot-gix branch)
 (this is remote repository modified text)
+(local modified)
